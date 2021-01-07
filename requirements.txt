@@ -11,7 +11,7 @@ django-extensions==2.2.8
 gunicorn==20.0.4
 haversine==2.2.0
 idna==2.8
-lxml==4.5.0
+lxml==4.6.2
 mysqlclient==1.4.6
 pycparser==2.19
 PyJWT==1.7.1
